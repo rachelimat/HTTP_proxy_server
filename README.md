@@ -1,2 +1,2 @@
 # HTTP_proxy_server
-A simple HTTP proxy server (without cache)
+The program realizes a simple HTTP proxy server with threads.
